@@ -1,0 +1,11 @@
+{
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/leads/page": "app/(dashboard)/leads/page.js",
+  "/(dashboard)/tasks/page": "app/(dashboard)/tasks/page.js",
+  "/(dashboard)/calendar/page": "app/(dashboard)/calendar/page.js",
+  "/(dashboard)/sales/page": "app/(dashboard)/sales/page.js",
+  "/(dashboard)/customers/page": "app/(dashboard)/customers/page.js",
+  "/(dashboard)/products/page": "app/(dashboard)/products/page.js",
+  "/(dashboard)/reports/page": "app/(dashboard)/reports/page.js",
+  "/(dashboard)/settings/page": "app/(dashboard)/settings/page.js"
+}
